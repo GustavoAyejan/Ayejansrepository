@@ -3,6 +3,7 @@ body, html {
     font-family: 'Courier New', Courier, monospace;
     background-color: black;
     height: 100%;
+    width:100%;
 }
 
 .barra_de_navegacion .icono_de_menu {
@@ -16,8 +17,8 @@ body, html {
     display: block;
   }
   .center {
-    height:200px;
-    width:400px;
+    height:150px;
+    width:150px;
   }
 }
   
